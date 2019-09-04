@@ -21,6 +21,7 @@ export function fetchHughesStats() {
   }
 }
 
+
 // Hughes /api/v1/people/8481559
 
 //https://statsapi.web.nhl.com/api/v1/people/8481559/stats?stats=statsSingleSeason&season=20192020

@@ -42,7 +42,7 @@ class Test extends Component {
           displacementImage: '../assets/ladyliberty3.png'
       });
 
-    console.log('this.props: ' + this.props);
+    //console.log('this.props: ' + this.props);
 
     return (
       <STYLES>
